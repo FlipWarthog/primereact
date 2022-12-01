@@ -20,7 +20,7 @@
         "test:check": "jest --watchAll=false --coverage"
     },
     "dependencies": {
-        "chart.js": "3.9.1",
+        "chart.js": "4.0.1",
         "file-saver": "2.0.5",
         "final-form": "^4.20.7",
         "formik": "^2.2.6",
